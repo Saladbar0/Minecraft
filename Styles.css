@@ -1,0 +1,92 @@
+body {
+  background-color:#BFFFC2;
+}
+
+.MainPage {
+  position: absolute;
+  left: 770px;
+  top: 820px;
+  text-align: center;
+}
+.TOC {
+  background-color: #91B093;
+  width: 200px;
+  height: 700px;
+  position: fixed;
+  left: 10px;
+  top: 130px;
+  text-align: center;
+  border-color: #91B093;
+  border-width: 100px;
+}
+
+.Minecraft {
+  text-align: center;
+  position: absolute;
+  left: 770px;
+}
+
+.news {
+  background-color: #91B093;
+  text-align: center;
+  width: 1140px;
+  height: 620px;
+  position: absolute;
+  top: 210px;
+  left: 220px;
+}
+
+.ad {
+  background-color: #91B093;
+  width: 300px;
+  height: 620px;
+  position: fixed;
+  top: 210px;
+  left: 1370px;
+}
+
+.adimage1 {
+  position: fixed;
+  top: 250px;
+  left: 1380px;
+}
+
+.adimage2 {
+  position: fixed;
+  top: 455px;
+  left: 1380px;
+}
+
+.adimage3 {
+  position: fixed;
+  top: 655px;
+  left: 1380px;
+}
+
+.wild {
+  color: black;
+  position: fixed;
+  top: 200px;
+  left: 1430px;
+  text-align: center;
+}
+
+.frogs {
+  color: black;
+  position: fixed;
+  top: 400px;
+  left: 1385px;
+  text-align: center;
+}
+
+.deepdark {
+  color: black;
+  position: fixed;
+  top: 605px;
+  left: 1430px;
+  text-align: center;
+}
+
+.big {
+  height: 1000px;
+}
